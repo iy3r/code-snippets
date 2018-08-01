@@ -21,7 +21,7 @@
 	"cmw-style": {
 		"prefix": "cmws",
 		"body": [
-			"import styled from 'styled-component'",
+			"import styled from 'styled-components'",
 			"",
 			"const withStyles = component => styled(component)`",
 			"\t${1}",
